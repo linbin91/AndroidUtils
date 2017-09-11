@@ -12,3 +12,5 @@
         点击事件、分割线、间隔距离、Adapter基类封装
     6.BaseFragment
         Fragment 传递参数创建
+    7.TextAttr
+        序列化与aidl
